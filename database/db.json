@@ -1,0 +1,34 @@
+{
+    "destinations" :[
+        {
+            "nom": "Paris",
+            "adresse": "France", 
+            "image":"./assets/A.jpg",
+            "nbHabitant": "23",
+            "nbHotel":"34",
+            "revenuMpy": "5698",
+            "superficie": "345",
+            "id":1
+        },
+        {
+            "nom": "Alger",
+            "adresse": "Algérie", 
+            "image":"./assets/I.jpg",
+            "nbHabitant": "45",
+            "nbHotel": "67",
+            "revenuMpy": "56",
+            "superficie": "378",
+            "id":2
+        },
+        {
+            "nom": "Rome",
+            "adresse": "Italie", 
+            "image":"./assets/D.jpg",
+            "nbHabitant": "25",
+            "nbHotel":"67",
+            "revenuMpy": "678",
+            "superficie": "34",
+            "id":3
+        }
+    ]
+}
